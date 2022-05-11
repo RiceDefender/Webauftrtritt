@@ -16,6 +16,8 @@ function App() {
       {/*<ImageChanger/>*/}
 
       <Youtubeembed/>
+
+      <div class="tenor-gif-embed" data-postid="21458880" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/nice-gif-21458880">Nice GIF</a>from <a href="https://tenor.com/search/nice-gifs">Nice GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
       <h1>Scrollbar</h1>
       <h1>Scrollbar</h1>
       <h1>Scrollbar</h1>
